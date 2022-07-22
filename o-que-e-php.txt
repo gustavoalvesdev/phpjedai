@@ -1,0 +1,36 @@
+PHP JEDAI
+
+DOMINE A FORÇA DO PHP
+
+Aprenda tudo isso e muito mais!
+
+- Aprenda PHP
+- Aprenda PHP OO e Banco de Dados
+- Aprenda PHP 7+
+- + de 100 aulas e 40 exercícios
+
+O que você realmente vai aprender? 
+
+Aulas 100% Práticas e novos módulos/aulas/projetos sendo adicionados constantemente (SEM CUSTOS ADICIONAIS).
+
+- Introdução e Configurando Ambiente de Trabalho
+- PHP Básico
+- PHP Intermediário
+- PHP Orientado a Objetos
+- Banco de Dados e PHP
+- COMPOSER
+- MVC e Roteamento
+- Conceitos Avançados e PHP 7
+- BootStrap e PHP
+- Macetes e Segurança com PHP
+- Manipulando Arquivos e Diretórios
+- Leitura com PHP
+- Frameworks PHP
+- Projeto Final
+- Exercícios com PHP
+- Exercícios Avançados com PHP
+- Bibliotecas Poderosas no PHP
+- Projeto Final #2 (AVANÇADO)
+- Backup Dinâmico com PHP
+- Criando Estrutura Avançada de MVC
+- Criando Site Avançado com MVC
