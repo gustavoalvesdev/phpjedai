@@ -1,0 +1,13 @@
+Front-End VS Back-End
+- Entenda as diferenças
+
+Front-End
+- Parte da Frente.
+- Parte Visual.
+- O que nosso navegador executa.
+- HTML, CSS, JAVASCRIPT.
+
+Back-End
+- Parte de "Trás".
+- Servidor
+- PHP, Banco de dados.
